@@ -145,6 +145,11 @@ Data Scientist
 
 ---
 
+⚠️ Note:
+The trained model file (`mobilenetv2_local.h5`) is not included in this repository due to file size limitations.
+The full working demo, including the model, is available on Hugging Face Spaces.
+
+
 ## ⚡ Final Note
 
 > This project demonstrates how deep learning can be applied to automate visual classification tasks in real-world e-commerce scenarios.
